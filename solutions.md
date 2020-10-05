@@ -26,3 +26,10 @@ Switched to a new branch 'solutions'
 ➜  terminal-git-practice git:(solutions) ~/.bash_history
 zsh: permission denied: /Users/luis/.bash_history
 ➜  terminal-git-practice git:(solutions) 
+
+
+➜  terminal-git-practice git:(solutions) ~
+➜  ~ mkdir~/ga
+zsh: no such file or directory: mkdir~/ga
+➜  ~ mkdir ~/ga
+➜  ~ 
