@@ -33,3 +33,43 @@ zsh: permission denied: /Users/luis/.bash_history
 zsh: no such file or directory: mkdir~/ga
 ➜  ~ mkdir ~/ga
 ➜  ~ 
+
+➜  ga week1
+➜  week1 mkdir project1 project2 project3 project4
+➜  week1 cd ..
+➜  ga week2
+➜  week2 mkdir project1 project2 project3 project4
+➜  week2 cd ..
+➜  ga week3
+➜  week3 mkdir project1 project2 project3 project4
+➜  week3 cd ..
+➜  ga week4
+➜  week4 mkdir project1 project2 project3 project4
+➜  week4 cd ..
+➜  ga week5
+➜  week5 mkdir project1 project2 project3 project4
+➜  week5 cd ..
+
+➜  week6 mkdir project1 project2 project3 project4
+➜  week6 ls
+project1 project2 project3 project4
+➜  week6 cd ..
+➜  ga week7
+➜  week7 mkdir project1 project2 project3 project4
+➜  week7 cd ..
+➜  ga week8
+➜  week8 mkdir project1 project2 project3 project4
+➜  week8 cd ..
+➜  ga week9
+➜  week9 mkdir project1 project2 project3 project4
+➜  week9 cd ..
+➜  ga week10 
+➜  week10 mkdir project1 project2 project3 project4
+➜  week10 cd ..
+➜  ga week11
+➜  week11 mkdir project1 project2 project3 project4
+➜  week11 cd ..
+➜  ga week12
+➜  week12 mkdir project1 project2 project3 project4
+➜  week12 cd ..
+
